@@ -15,22 +15,7 @@
       "date": "2026-06-11T20:42:34.137Z"
     }
   ],
-  "carousels": [
-    {
-      "id": "car-1781210469139",
-      "label": "",
-      "category": "bridal",
-      "visibility": "homepage",
-      "slides": [
-        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781210462/shakshi_portfolio/IMG_9808_vu9zqi.jpg",
-        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781210464/shakshi_portfolio/IMG_9809_owvyoj.jpg",
-        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781210465/shakshi_portfolio/IMG_9810_uisplw.jpg",
-        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781210467/shakshi_portfolio/IMG_9811_zaembk.jpg",
-        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781210468/shakshi_portfolio/IMG_9805_f8yywm.jpg"
-      ],
-      "date": "2026-06-11T20:41:09.139Z"
-    }
-  ],
+  "carousels": [],
   "collections": [
     {
       "id": "col-1781210535348",
