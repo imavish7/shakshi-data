@@ -94,5 +94,18 @@
       "date": "2026-06-12T19:42:51.862Z"
     }
   ],
-  "collections": []
+  "collections": [
+    {
+      "id": "col-1781293609625",
+      "name": "Untitled Collection",
+      "category": "bridal",
+      "photos": [
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781293605/shakshi_portfolio/IMG_9811_g0uuge.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781293606/shakshi_portfolio/IMG_9810_ocscd1.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781293607/shakshi_portfolio/IMG_9809_u7rif9.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781293608/shakshi_portfolio/IMG_9808_rxuims.jpg"
+      ],
+      "date": "2026-06-12T19:46:49.625Z"
+    }
+  ]
 }
