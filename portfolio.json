@@ -16,5 +16,16 @@
       "date": "2026-06-12T20:16:23.375Z"
     }
   ],
-  "collections": []
+  "collections": [
+    {
+      "id": "col-1781295408944",
+      "name": "Untitled Collection",
+      "category": "bridal",
+      "photos": [
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295406/shakshi_portfolio/IMG_9832_ffbqkd.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295407/shakshi_portfolio/IMG_9831_hk87eb.jpg"
+      ],
+      "date": "2026-06-12T20:16:48.944Z"
+    }
+  ]
 }
