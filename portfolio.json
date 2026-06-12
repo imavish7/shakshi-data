@@ -1,5 +1,48 @@
 {
-  "photos": [],
+  "photos": [
+    {
+      "id": "ph-1781295462100-l309zutg5f",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295460/shakshi_portfolio/IMG_9806_zuoqcm.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:17:42.100Z"
+    },
+    {
+      "id": "ph-1781295462100-yhc3e3mkmc",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295459/shakshi_portfolio/IMG_9807_adhsce.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:17:42.100Z"
+    },
+    {
+      "id": "ph-1781295462100-owl5y6qp73i",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295457/shakshi_portfolio/IMG_9828_jqmmbd.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:17:42.100Z"
+    },
+    {
+      "id": "ph-1781295462100-7i8vuncybbl",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295456/shakshi_portfolio/IMG_9830_tg2ecj.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:17:42.100Z"
+    },
+    {
+      "id": "ph-link-1781295419801",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295406/shakshi_portfolio/IMG_9832_ffbqkd.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:16:59.801Z"
+    },
+    {
+      "id": "ph-link-1781295417099",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295407/shakshi_portfolio/IMG_9831_hk87eb.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:16:57.099Z"
+    }
+  ],
   "carousels": [
     {
       "id": "car-1781295383375",
@@ -17,6 +60,13 @@
     }
   ],
   "collections": [
+    {
+      "id": "col-1781295430548",
+      "name": "c2",
+      "category": "bridal",
+      "photos": [],
+      "date": "2026-06-12T20:17:10.548Z"
+    },
     {
       "id": "col-1781295408944",
       "name": "Untitled Collection",
