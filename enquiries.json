@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "enq-test",
+    "name": "Test User",
+    "phone": "9999999999",
+    "status": "new"
+  }
+]
