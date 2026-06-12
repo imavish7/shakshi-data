@@ -1,6 +1,41 @@
 {
   "photos": [
     {
+      "id": "ph-1781295705939-xy0qszy5dy",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295704/shakshi_portfolio/IMG_9805_s7vcd1.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:21:45.939Z"
+    },
+    {
+      "id": "ph-1781295705939-e5gj3c8bdsf",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295703/shakshi_portfolio/IMG_9808_i5y6gz.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:21:45.939Z"
+    },
+    {
+      "id": "ph-1781295705939-qieckeiet2",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295702/shakshi_portfolio/IMG_9809_rhm0o0.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:21:45.939Z"
+    },
+    {
+      "id": "ph-1781295705939-c6ebqez0cvb",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295700/shakshi_portfolio/IMG_9810_dsnop4.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:21:45.939Z"
+    },
+    {
+      "id": "ph-1781295705939-2t4wzc5ihqs",
+      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295698/shakshi_portfolio/IMG_9811_eexetb.jpg",
+      "category": "bridal",
+      "visibility": "seemore",
+      "date": "2026-06-12T20:21:45.939Z"
+    },
+    {
       "id": "ph-1781295462100-l309zutg5f",
       "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295460/shakshi_portfolio/IMG_9806_zuoqcm.jpg",
       "category": "bridal",
@@ -60,6 +95,13 @@
     }
   ],
   "collections": [
+    {
+      "id": "col-1781295676574",
+      "name": "gg",
+      "category": "bridal",
+      "photos": [],
+      "date": "2026-06-12T20:21:16.574Z"
+    },
     {
       "id": "col-1781295430548",
       "name": "c2",
