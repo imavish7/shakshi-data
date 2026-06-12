@@ -1,13 +1,6 @@
 {
   "photos": [
     {
-      "id": "ph-1781214604843-mvw0ta18wrg",
-      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781214604/shakshi_portfolio/IMG_9831_bmxzxn.jpg",
-      "category": "bridal",
-      "visibility": "seemore",
-      "date": "2026-06-11T21:50:04.843Z"
-    },
-    {
       "id": "ph-1781214604843-uheh4lya9b8",
       "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781214602/shakshi_portfolio/IMG_9832_n5nkit.jpg",
       "category": "bridal",
@@ -16,19 +9,5 @@
     }
   ],
   "carousels": [],
-  "collections": [
-    {
-      "id": "col-1781214588752",
-      "name": "Untitled Collection",
-      "category": "bridal",
-      "photos": [
-        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781214582/shakshi_portfolio/IMG_9830_m3y859.jpg",
-        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781214584/shakshi_portfolio/IMG_9829_kjq3ic.jpg",
-        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781214585/shakshi_portfolio/IMG_9807_abw6mc.jpg",
-        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781214587/shakshi_portfolio/IMG_9806_eg5zyo.jpg",
-        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781214588/shakshi_portfolio/IMG_9828_olnfxf.jpg"
-      ],
-      "date": "2026-06-11T21:49:48.752Z"
-    }
-  ]
+  "collections": []
 }
