@@ -1,14 +1,1 @@
-[
-  {
-    "id": "enq-real",
-    "name": "Priya Sharma",
-    "phone": "9876543210",
-    "status": "new"
-  },
-  {
-    "id": "enq-test",
-    "name": "Test User",
-    "phone": "9999999999",
-    "status": "new"
-  }
-]
+[]
