@@ -64,7 +64,12 @@
       "id": "col-1781295430548",
       "name": "c2",
       "category": "bridal",
-      "photos": [],
+      "photos": [
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295460/shakshi_portfolio/IMG_9806_zuoqcm.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295459/shakshi_portfolio/IMG_9807_adhsce.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295457/shakshi_portfolio/IMG_9828_jqmmbd.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295456/shakshi_portfolio/IMG_9830_tg2ecj.jpg"
+      ],
       "date": "2026-06-12T20:17:10.548Z"
     },
     {
