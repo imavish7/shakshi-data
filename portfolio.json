@@ -1,20 +1,5 @@
 {
-  "photos": [
-    {
-      "id": "ph-1781293419554-1tq7tscindt",
-      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781293409/shakshi_portfolio/IMG_9830_hj8hyw.jpg",
-      "category": "bridal",
-      "visibility": "seemore",
-      "date": "2026-06-12T19:43:39.554Z"
-    },
-    {
-      "id": "ph-1781293419554-x9l0rlcl1pc",
-      "url": "https://res.cloudinary.com/dkcetb1si/image/upload/v1781293407/shakshi_portfolio/IMG_9832_kl7n4f.jpg",
-      "category": "bridal",
-      "visibility": "seemore",
-      "date": "2026-06-12T19:43:39.554Z"
-    }
-  ],
+  "photos": [],
   "carousels": [],
   "collections": []
 }
