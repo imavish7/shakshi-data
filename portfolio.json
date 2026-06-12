@@ -99,7 +99,13 @@
       "id": "col-1781295676574",
       "name": "gg",
       "category": "bridal",
-      "photos": [],
+      "photos": [
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295704/shakshi_portfolio/IMG_9805_s7vcd1.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295703/shakshi_portfolio/IMG_9808_i5y6gz.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295702/shakshi_portfolio/IMG_9809_rhm0o0.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295700/shakshi_portfolio/IMG_9810_dsnop4.jpg",
+        "https://res.cloudinary.com/dkcetb1si/image/upload/v1781295698/shakshi_portfolio/IMG_9811_eexetb.jpg"
+      ],
       "date": "2026-06-12T20:21:16.574Z"
     },
     {
